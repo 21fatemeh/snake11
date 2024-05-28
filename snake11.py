@@ -39,7 +39,7 @@ def move():
 
     turtle.penup()
     turtle.goto(-250, 250)
-    turtle.color("brown")
+    turtle.color("pink")
     turtle.write(f'Score: {score}', align="center", font=("Brush Script MT", 24, "italic"))
     turtle.update()
 
